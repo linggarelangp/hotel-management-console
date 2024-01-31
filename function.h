@@ -8,7 +8,7 @@
 
 using namespace std;
 
-// Create a new node
+// Membuat node baru
 void insertData()
 {
     system("cls");
@@ -45,7 +45,7 @@ void insertData()
     cout << "Press enter to continue...";
 }
 
-// Print the node
+// Mencetak node
 void print()
 {
 
@@ -73,7 +73,7 @@ void print()
     cout << "\n";
 }
 
-// Delete the node
+// Hapus node
 void deleteData()
 {
 
@@ -151,7 +151,7 @@ void deleteData()
     }
 }
 
-// Main Menu
+// Menu Utama
 void mainMenu()
 {
 
